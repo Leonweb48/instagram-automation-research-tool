@@ -1,0 +1,4 @@
+.env
+*.log
+session.json
+__pycache__/
